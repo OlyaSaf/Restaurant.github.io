@@ -68,10 +68,11 @@ ul {
 }
 
 img {
-    max-width: 80%;
+    max-width: 65%;
     height: auto;
     border-radius: 500px;
     position: relative;
+
 }
 
 iframe {
