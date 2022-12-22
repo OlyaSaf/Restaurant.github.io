@@ -1,0 +1,120 @@
+body {
+    box-sizing: content-box;
+    background-color: #e9c395;
+    margin-top: 35px;
+}
+
+header {
+    background-color: #e9c395;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+nav {
+    background-color: #e9c395;
+    text-align: center;
+    margin-top: -27px;
+    word-spacing: 70px;
+    font-size: 20px;
+}
+
+a:link {
+    color: #0b020d;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgba(138, 9, 45, 0.941);
+}
+
+
+a:hover {
+    color: #ac24d1;
+}
+
+main {
+    text-align: center;
+    background-color: #e9c395;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif color;
+    color: rgb(17, 17, 79);
+    font-size: 50px;
+    text-decoration: overline;
+}
+
+h2 {
+    word-spacing: 50px;
+    text-align: center;
+    color: aquamarine;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+    background-color: #e9c395;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif color;
+    color: rgb(17, 17, 79);
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 500px;
+    position: relative;
+}
+
+iframe {
+    height: 1258px;
+    width: 100%;
+    border: none;
+
+}
+
+footer {
+    text-decoration-line: none;
+    background-color: #e9c395;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+    word-spacing: 200px;
+}
+
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.navInternal {
+
+    word-spacing: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.homeIMG {
+
+    width: 100%;
+    height: auto;
+
+}
+
+.restaurantDescription {
+
+    float: right;
+    text-align: justify;
+    font-size: 150%;
+    padding: 15px;
+
+}
