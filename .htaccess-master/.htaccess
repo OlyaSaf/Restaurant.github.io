@@ -1,4 +1,5 @@
 AuthName "Secure directory"
-AuthUserFile /path/to/password/file/.htpasswd
+AuthUserFile /Users/olgasafonova/Desktop/Restaurant.github.io/.htaccess-master/.htpasswd
 AuthType Basic
 require valid-user
+
