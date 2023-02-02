@@ -22,6 +22,7 @@ nav {
 a:link {
     color: #0b020d;
     text-decoration: none;
+    font-size: 18px;
 }
 
 a:visited {
@@ -118,4 +119,21 @@ footer {
     font-size: 150%;
     padding: 15px;
 
+}
+
+table,
+th,
+td {
+    border: 2px solid rgb(31, 30, 30);
+    border-collapse: collapse;
+}
+
+td,
+th {
+    background-color: #ecd1a2;
+}
+
+.rosters {
+    border-radius: 0%;
+    position: relative;
 }
